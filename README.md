@@ -22,5 +22,3 @@ Wireframe: http://imgur.com/0vJgeYR
 - Add hints 
 - Add sound effects and music from video game series
 - Make the Hangman Game work for sentences instead of just one word
-
-
